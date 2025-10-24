@@ -2,3 +2,10 @@ body{
     background-color: aqua;
     font-family:BBH Sans Hegarty;
 }
+header{
+    font-size:50px;
+    text-align:center;
+}
+.top1{
+    background-color: aquamarine;
+}
